@@ -2,6 +2,9 @@
 * [Behaviour question tips](https://www.1point3acres.com/bbs/thread-642741-1-1.html)
 
 ## June Quant learning record
+1. Everyday Q&A: Heard on the street
+
+## June Quant learning record
  1. [Daily python: Recursion, some algorithms](https://github.com/QinmengLUAN/Daily_Python_Coding)
  1. Value at Risk [MIT](https://www.youtube.com/watch?v=92WaNz9mPeY)
  1. Book: Options, futures and other derivatives
