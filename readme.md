@@ -1,6 +1,7 @@
 ## Usful web pages
+* [Behaviour question list](https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqhen-quan.html?from=groupmessage&isappinstalled=0#how-do-you-deal-with-conflicts)
 * [Behaviour question tips](https://www.1point3acres.com/bbs/thread-642741-1-1.html)
-
+* [Math cheat sheet](https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Math_Calculus)
 ## June Quant learning record
 1. Everyday Q&A: Heard on the street
 
