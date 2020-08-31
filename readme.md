@@ -2,8 +2,18 @@
 * [Behaviour question list](https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqhen-quan.html?from=groupmessage&isappinstalled=0#how-do-you-deal-with-conflicts)
 * [Behaviour question tips](https://www.1point3acres.com/bbs/thread-642741-1-1.html)
 * [Math cheat sheet](https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Math_Calculus)
-## June Quant learning record
+* [Python cheat sheet](https://elitedatascience.com/python-cheat-sheet)
+* [Time series usful book](https://otexts.com/fpp2/autocorrelation.html)
+
+## August Quant learning record
+1. Coursera [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis/home/welcome)
+2. Green book: Stochastic Process and Stochastic Calculus
+3. Heard on the Wall Street book: finish probability chapter, and start stochastic process
+
+## July Quant learning record
 1. Everyday Q&A: Heard on the street
+2. Coursera [AI for everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
+3. Green book: math chapter
 
 ## June Quant learning record
  1. [Daily python: Recursion, some algorithms](https://github.com/QinmengLUAN/Daily_Python_Coding)
