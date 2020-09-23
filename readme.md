@@ -5,6 +5,11 @@
 * [Python cheat sheet](https://elitedatascience.com/python-cheat-sheet)
 * [Time series usful book](https://otexts.com/fpp2/autocorrelation.html)
 
+## September Quant learning record
+1. Applications and online tests
+2. Green book: Probability
+3. Review time series
+
 ## August Quant learning record
 1. Coursera [Practical Time Series Analysis](https://www.coursera.org/learn/practical-time-series-analysis/home/welcome)
 2. Green book: Stochastic Process and Stochastic Calculus
