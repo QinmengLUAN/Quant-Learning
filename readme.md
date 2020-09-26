@@ -6,7 +6,7 @@
 * [Time series usful book](https://otexts.com/fpp2/autocorrelation.html)
 
 ## September Quant learning record
-1. Applications and online tests
+1. Applications, Online Tests and Phone Interviews
 2. Green book: Probability
 3. Review time series
 
