@@ -7,6 +7,7 @@
 
 ## October Quant learning record
 1. Online tests
+2. Citadel EU datathon competition
 
 ## September Quant learning record
 1. Applications, Online Tests and Phone Interviews
