@@ -1,10 +1,3 @@
-## Usful web pages
-* [Behaviour question list](https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqhen-quan.html?from=groupmessage&isappinstalled=0#how-do-you-deal-with-conflicts)
-* [Behaviour question tips](https://www.1point3acres.com/bbs/thread-642741-1-1.html)
-* [Math cheat sheet](https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Math_Calculus)
-* [Python cheat sheet](https://elitedatascience.com/python-cheat-sheet)
-* [Time series usful book](https://otexts.com/fpp2/autocorrelation.html)
-
 ## October Quant learning record
 1. Online tests
 2. Citadel EU datathon competition
@@ -52,5 +45,10 @@
  4. [Heard on the street quantitative questions](https://docs.google.com/viewer?a=v&pid=sites&srcid=bWl0ci5paXRtLmFjLmlufGNpdmlsfGd4OjZkYWM5OWM5ZmE3ZWFmY2E)
  5. [Some practice on puzzles](http://puzzles.nigelcoldwell.co.uk/)
 
- 
+## Usful web pages
+* [Behaviour question list](https://sugarac.gitbooks.io/high-frequency-interview-questions-and-answers/content/bqhen-quan.html?from=groupmessage&isappinstalled=0#how-do-you-deal-with-conflicts)
+* [Behaviour question tips](https://www.1point3acres.com/bbs/thread-642741-1-1.html)
+* [Math cheat sheet](https://github.com/FavioVazquez/ds-cheatsheets/tree/master/Math_Calculus)
+* [Python cheat sheet](https://elitedatascience.com/python-cheat-sheet)
+* [Time series usful book](https://otexts.com/fpp2/autocorrelation.html)
  
