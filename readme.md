@@ -1,3 +1,7 @@
+## December Quant learning record
+1. [Jane Street Market Prediction](https://www.kaggle.com/c/jane-street-market-prediction/overview)
+   * Test your model against future real market data
+
 ## October Quant learning record
 1. Online tests
 2. Citadel EU datathon competition
